@@ -1,6 +1,10 @@
 # webWeatherx
 
-<div align="centre">
+A JavaScript Weather Forecast application that use OpenWeather API.
 
-## Project Description
-A simple website to show the weather forecast of cities all over the world
+## Getting the API KEY
+
+To use this application make sure that you have the Open Weather API KEY.
+You can get your API KEY and the API documentation on [OpenWeather WebSite](https://openweathermap.org/)
+
+
