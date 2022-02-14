@@ -8,4 +8,4 @@ To use this application make sure that you have the Open Weather API KEY.
 You can get your API KEY and the API documentation on [OpenWeather WebSite](https://openweathermap.org/)
 
 # Try the appplication here 
-[GlobalWeather](https://sanketsarmalkar.github.io/webWeatherx/) 
+[webWeatherx](https://sanketsarmalkar.github.io/webWeatherx/) 
